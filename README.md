@@ -1,2 +1,0 @@
-# ksz
-python
